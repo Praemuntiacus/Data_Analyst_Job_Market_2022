@@ -25,7 +25,6 @@ Among the most sought-after skills, the analysis highlights the following key co
 
 ![image](https://github.com/Praemuntiacus/Data_Analyst_Job_Market_2022/assets/125415799/1c09e9ef-5b0f-448a-b188-1aa46e343621)
 
-
 L'analyse du marché de l'emploi des Data Analysts en France en novembre 2022 repose sur les annonces d'emploi publiées sur plusieurs sites tels que *LinkedIn*, *Apec.fr*, *Indeed* et *Free-Work* au cours de ce mois. Un total de 363 annonces d'emploi ont été enregistrées pour l'analyse. L'analyse exclut les annonces de stages, de postes en freelance et d'apprentissage. Dans les cas où la même annonce d'emploi a été publiée plusieurs fois au cours du mois, elle a été considérée comme une seule publication.
 
 Chaque annonce d'emploi a été soigneusement examinée afin d'extraire des données essentielles concernant les conditions d'emploi, telles que la possibilité de télétravail, la durée du contrat (court terme ou long terme) et les informations salariales. De plus, les exigences pour les candidatures, notamment l'expérience et les compétences requises, ainsi que le secteur économique et la localisation géographique, ont également été pris en compte. Cependant, certaines annonces d'emploi ne fournissaient pas toutes les données nécessaires. Dans ces cas, certaines informations, telles que l'expérience requise, ont été déduites du contexte.
