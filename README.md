@@ -3,11 +3,12 @@ The analysis of data Analyst job market of France in November 2022
 
 ![Dashboard presenting the features of Data Analyst job market during November 2022 in France](https://github.com/Praemuntiacus/Data_Analyst_Job_Market_2022/blob/main/Dashboard%201.png)
 
-![image](https://github.com/Praemuntiacus/Data_Analyst_Job_Market_2022/assets/125415799/125c7f3d-0d19-41d5-8988-8a6183a1d716)
-
 <p align="center">
   <i>Data analyst Job Market in November, 2022, France</i>
 </p>
+
+![image](https://github.com/Praemuntiacus/Data_Analyst_Job_Market_2022/assets/125415799/125c7f3d-0d19-41d5-8988-8a6183a1d716)
+
 
 The analysis of the [Data Analyst job market in France in November 2022](https://public.tableau.com/app/profile/roman4891/viz/data_analyst_jobs_november/Dashboard1?publish=yes) is based on job announcements published on several job sites such as *LinkedIn*, *Apec.fr*, *Indeed*, and *Free-Work* during that specific month. A total of 363 job announcements were recorded for analysis. The analysis excludes announcements for internships, freelance positions, and apprenticeships. In cases where the same job announcement was published multiple times within the month, it was treated as a single publication.
 
