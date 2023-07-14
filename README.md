@@ -5,6 +5,10 @@ The analysis of data Analyst job market of France in November 2022
 
 ![image](https://github.com/Praemuntiacus/Data_Analyst_Job_Market_2022/assets/125415799/125c7f3d-0d19-41d5-8988-8a6183a1d716)
 
+<p align="center">
+  <i>Data analyst Job Market in November, 2022, France</i>
+</p>
+
 The analysis of the [Data Analyst job market in France in November 2022](https://public.tableau.com/app/profile/roman4891/viz/data_analyst_jobs_november/Dashboard1?publish=yes) is based on job announcements published on several job sites such as *LinkedIn*, *Apec.fr*, *Indeed*, and *Free-Work* during that specific month. A total of 363 job announcements were recorded for analysis. The analysis excludes announcements for internships, freelance positions, and apprenticeships. In cases where the same job announcement was published multiple times within the month, it was treated as a single publication.
 
 Each job announcement was carefully examined to extract essential data regarding job conditions, such as the possibility of remote work, contract duration (short-term or long-term), and salary information. Additionally, requirements for job applications, including experience and skills, as well as the economic sector and geographical location, were also considered. However, some job announcements did not provide all the necessary data. In such instances, certain information, such as required experience, was deduced from the context.
