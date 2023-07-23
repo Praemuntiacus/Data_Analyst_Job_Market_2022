@@ -3,6 +3,7 @@ The analysis of data Analyst job market of France in November 2022
 
 ![Dashboard presenting the features of Data Analyst job market during November 2022 in France](https://github.com/Praemuntiacus/Data_Analyst_Job_Market_2022/blob/main/Dashboard%201.png)
 
+
 <p align="center">
   <i>Data analyst Job Market in November, 2022, France</i>
 </p>
